@@ -1,0 +1,4 @@
+sampling,n_cells,mean_l2_over_cells,std_across_cells
+uniform,15,0.26603270,0.15667673
+geo-axial,15,0.26405259,0.15280936
+geo-wallstretched,15,0.26729690,0.15775899
