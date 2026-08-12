@@ -16,3 +16,4 @@ results/effect_inductive_bias.csv
 results/effect_sampling.csv
 results/fluid_breakdown.csv
 results/completeness_report.csv
+parity_tests/
