@@ -1,0 +1,6 @@
+case,mean_l2,median_l2,max_l2,negative_predictions
+Power-law-aware | uniform,0.3189,0.2382,2.122,0
+Power-law-aware | mesh sampling,0.2978,0.2242,1.889,0
+Power-law-aware | z30 + beta eta25,0.2902,0.2213,1.894,0
+Geometry-channel-aware | uniform,0.3561582719627768,0.2325217276811599,3.5015573501586914,0
+Geometry-channel-aware | mesh sampling,0.3615960057033225,0.2105002477765083,3.4188554286956787,0

@@ -1,0 +1,7 @@
+sampling,mean_l2,median_l2,max_l2,negative_predictions
+uniform,0.3189,0.2382,2.122,0
+eta_only_beta,0.3108,0.2357,2.165,0
+z_only,0.3271,0.2351,2.303,0
+z30_eta25_beta,0.2902,0.2213,1.894,0
+z100_eta50_beta_no_uniform,0.3123,0.2264,1.949,0
+z_equal_eta_wallstretched_k2,0.2978,0.2242,1.889,0

@@ -1,0 +1,6 @@
+Model,Sampling,Mean_L2,Median_L2,Max_L2,Negative_Predictions,Held_Out_Geometry
+Unconstrained DeepONet,Uniform,0.5725149119272828,0.3595956563949585,5.278929710388184,50,sinusoidal
+Power-law-aware DeepONet,Uniform,0.3189408269897103,0.2382069453597068,2.121532201766968,0,sinusoidal
+Power-law-aware DeepONet,Geometry-aware sampling,0.2978054388985038,0.2241926714777946,1.8888401985168457,0,sinusoidal
+Geometry-channel-aware DeepONet,Uniform,0.3561582719627768,0.2325217276811599,3.5015573501586914,0,sinusoidal
+Geometry-channel-aware DeepONet,Geometry-aware sampling,0.3615960057033225,0.2105002477765083,3.4188554286956787,0,sinusoidal
