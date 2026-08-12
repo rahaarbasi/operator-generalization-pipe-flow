@@ -5,3 +5,14 @@ __pycache__/
 .DS_Store
 .vscode/
 .ipynb_checkpoints/
+
+# Experiment sweep outputs
+runs/
+smoke_tests/
+
+# Regenerated aggregate tables
+results/master_table.csv
+results/effect_inductive_bias.csv
+results/effect_sampling.csv
+results/fluid_breakdown.csv
+results/completeness_report.csv
