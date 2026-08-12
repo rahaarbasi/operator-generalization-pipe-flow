@@ -1,0 +1,7 @@
+{
+  "wall_clock_seconds": 18.494813166558743,
+  "training_seconds": 17.56364804226905,
+  "evaluation_seconds": 0.5913042081519961,
+  "device": "mps",
+  "accelerator_name": "Apple Metal Performance Shaders (MPS)"
+}

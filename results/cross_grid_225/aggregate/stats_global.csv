@@ -1,0 +1,3 @@
+factor,test,n_blocks,statistic,p_value
+architecture,Friedman,15,30.0,3.0590232050182594e-07
+sampling,Friedman,15,5.199999999999989,0.0742735782143343

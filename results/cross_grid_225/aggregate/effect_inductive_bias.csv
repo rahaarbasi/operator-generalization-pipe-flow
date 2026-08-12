@@ -1,0 +1,4 @@
+arch,n_cells,mean_l2_over_cells,std_across_cells
+unconstrained,15,0.40907438,0.17539768
+powerlaw,15,0.21522849,0.06610349
+geoaware,15,0.17307933,0.06093236
